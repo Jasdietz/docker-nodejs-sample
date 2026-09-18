@@ -5,9 +5,9 @@ Diese Applikation ermöglicht es, eine ToDo-Liste lokal laufen zu lassen und zu 
 
 ## Voraussetzungen
 
--Installieren Sie [Node.js](https://nodejs.org/) oder in PowerShell 
+-Installieren Sie [Node.js] https://nodejs.org/ oder in PowerShell 
 `winget install OpenJS.NodeJS.LTS`
--Installieren Sie [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+-Installieren Sie [Docker Desktop] https://www.docker.com/products/docker-desktop/
 - Kopieren Sie den folgenden Link: https://github.com/ICT-BLJ/docker-nodejs-sample.git
 
 ## Repository klonen
